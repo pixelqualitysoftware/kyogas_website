@@ -1,0 +1,40 @@
+body {
+	background-color: #386f8a; /*#3b2d2d;*/
+	color: #EEEEEE;
+	font-family: monospace; /*sans-serif;*/
+	font-size: 1.25rem;
+}
+table, th, td {
+	border: 3px solid black;
+	padding: 0.55rem;
+}
+section {
+	margin: 0.67rem;
+}
+hr {
+	margin-top: 64px;
+	margin-bottom: 64px;
+}
+a {
+	color: #32b0ac; /*#4c38bb*/
+	margin: 25px;
+}
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1, h2, h3 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#X {
+	margin: 0 auto;
+}
